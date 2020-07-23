@@ -72,3 +72,5 @@ int main() {
  - 时间: 2ms 内存: 3MB 语言: C++。
  - 其实开始的时候考虑的有点狭隘了，在纠结天数怎么简便的算出来，实际上只要一个数组就搞定啦。我也趁热打铁在LeetCode上找了一道日期类的题，详见LeetCode
     仓库：https://github.com/Lihao-me/LeetCode_Practice/blob/master/LeetCode_Easy/040_dayOfYear.md 。
+
+下一题：[6174猜想](https://github.com/Lihao-me/College_study/blob/master/CppCourse/002_6174thinking.md)
