@@ -70,5 +70,5 @@ int main()
  - 这道题开始的时候错误频出，在于遗漏了很多条件，比如排序，每一次循环都要重新排序一次。这道题的简单之处在于只是四位数不用考虑溢出问题。而用algorithm
    下的sort进行排序则使用了其由大到小的排序方式非常方便。对于使用详情可见：https://blog.csdn.net/lytwy123/article/details/84503492 。
    
-上一题：[日期计算](https://github.com/Lihao-me/College_study/blob/master/CppCourse/001_countDays.md)
-下一题：[做游戏](https://github.com/Lihao-me/College_study/blob/master/CppCourse/003_playGames.md)
+上一题：[日期计算](https://github.com/Lihao-me/College_study/blob/master/CppCourse/001_countDays.md)                
+下一题：[做游戏](https://github.com/Lihao-me/College_study/blob/master/CppCourse/003_playGames.md)             
