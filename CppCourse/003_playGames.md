@@ -15,15 +15,15 @@
 若只有一个小孩子，有初始号码x，则一步结束后结果为x + x(也需考虑%100)。　
 
 ### 示例
->输入：
-2  
+>输入：                                
+2                                  
 3 1  
 1 2 3  
 3 2  
 1 2 3  
 
->输出：
-3 5 4  
+>输出：                                                
+3 5 4                                   
 8 9 7  
 
 ### 思路
@@ -69,3 +69,6 @@ int main() {
 
 ### 分析
  - 这道题需要注意的是多组数据的输入和循环。
+
+上一题：[6174猜想](https://github.com/Lihao-me/College_study/blob/master/CppCourse/002_6174thinking.md)                
+下一题：[比较版本](https://github.com/Lihao-me/College_study/blob/master/CppCourse/004_versionCampare.md)       
