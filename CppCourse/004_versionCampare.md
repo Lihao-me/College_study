@@ -46,3 +46,6 @@ int main()
  - 开始的时候一直在纠结该怎么读入这两行字符，其实不用考虑这么多简单的一个代码搞定。
  - 我也趁热打铁在LeetCode上找了一道类似的，也不是很复杂。详见：
  https://github.com/Lihao-me/LeetCode_Practice/blob/master/LeetCode_Medium/003_compareVersion.md
+
+上一题：[做游戏](https://github.com/Lihao-me/College_study/blob/master/CppCourse/003_playGames.md)       
+下一题：[扫雷计数](https://github.com/Lihao-me/College_study/blob/master/CppCourse/005_cleanBooms.md)      
