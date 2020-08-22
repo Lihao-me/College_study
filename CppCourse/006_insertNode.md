@@ -94,3 +94,6 @@ int main(void)
     }
 }
 ```
+
+上一题：[扫雷计数](https://github.com/Lihao-me/College_study/blob/master/CppCourse/005_cleanBooms.md)       
+下一题：[倒过来输出](https://github.com/Lihao-me/College_study/blob/master/CppCourse/007_reverseOutput.md)  
