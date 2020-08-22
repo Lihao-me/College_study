@@ -53,3 +53,6 @@ int main()
 
 }
 ```
+
+上一题：[倒过来输出](https://github.com/Lihao-me/College_study/blob/master/CppCourse/007_reverseOutput.md)     
+下一题：[重点防护](https://github.com/Lihao-me/College_study/blob/master/CppCourse/009_mainProtect.md)
