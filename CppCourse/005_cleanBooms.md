@@ -78,6 +78,7 @@ int main() {
 	printf("%d\n", sum);
 	return 0;
 }
+```
 
 上一题：[比较版本](https://github.com/Lihao-me/College_study/blob/master/CppCourse/004_versionCampare.md)       
 下一题：[有序链表插入](https://github.com/Lihao-me/College_study/blob/master/CppCourse/006_insertNode.md)  
