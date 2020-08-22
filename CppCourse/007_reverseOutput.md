@@ -33,3 +33,7 @@ int main() {
   cout<<result<<endl;
           return 0;
 }
+```
+
+上一题：[有序链表插入](https://github.com/Lihao-me/College_study/blob/master/CppCourse/006_insertNode.md)   
+下一题：[岛屿周长](https://github.com/Lihao-me/College_study/blob/master/CppCourse/008_islandLength.md)  
